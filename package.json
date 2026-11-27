@@ -10,7 +10,7 @@
     "dev": "wrangler dev"
   },
   "dependencies": {
-    "@sveltia/cms-additions": "1.0.0"
+    "@sveltia/cms-additions": "1.0.2"
   },
   "devDependencies": {
     "wrangler": "4.166.0"
